@@ -1,4 +1,4 @@
-## Code for geometric transformations in images
+## Code for geometric transformations on images
 
 ### Model
 The transformations are applied using matrix multiplication. The value of a pixel is estimated through a bilinear interpolation function.

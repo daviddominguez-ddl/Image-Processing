@@ -7,17 +7,12 @@ In this post will show how  to change the contrast of grayscale image using Open
 
 where, ![\Large I(x)](https://latex.codecogs.com/svg.latex?I%28x%29) are the source image pixels , ![\Large I(x)](https://latex.codecogs.com/svg.latex?I%27%28x%29) are the output image pixels. The parameters ![\Large \alpha>0](https://latex.codecogs.com/svg.latex?%5Calpha%20%3E0) and ![\Large \beta>0](https://latex.codecogs.com/svg.latex?%5Cbeta) are often called the gain and bias parameters; sometimes these parameters are said to control contrast and brightness respectively.
 
-### Installing
-Requires:
-* OpenCV 3.4.3
-* pkg-config 0.29.2
+### Run Code
 
 There are 1 file:
 * histogram.cpp
 
 Simply compile and run. There is a Makefile for a fast test.
-
-### Run Code
 
 #### C++
 ```

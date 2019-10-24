@@ -1,6 +1,5 @@
 /**
  * Copyright (c) 2019, David Dominguez
- * Contact: david.stutz@rwth-aachen.de, davidstutz.de
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without modification,
